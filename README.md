@@ -1,10 +1,12 @@
-### Realtime Semantic Segmentation based Lane Detection
+### Real-time Semantic segmentation-based Lane Detection
  ----
 ### Idea
- - <img src="/images/block_diagram.png" width="400" />
-----
+
+ > <img src="/images/block_diagram.png" width="400" />
+
+
 ### Experimental Results
-- Lane Detection results in some challenging scenarios
+> Lane Detection results in some challenging scenarios
  <img src="/images/sample_0.png" width="500" />
  
  <img src="/images/sample_1.png" width="500" /> 
