@@ -8,7 +8,7 @@
 ### Experimental Results
 > Lane Detection results in some challenging scenarios
  <img src="/images/sample_0.png" width="700" />
- 
+ <hr>
  <img src="/images/sample_1.png" width="700" /> 
 
 - Lane-keeping test experimental results using AggieAuto AV platform - Lincoln MKZ hybrid:
