@@ -1,15 +1,15 @@
 ### Real-time Semantic segmentation-based Lane Detection
  ----
-### Idea
+### Architecture
 
  > <img src="/images/block_diagram.png" width="400" />
 
 
 ### Experimental Results
 > Lane Detection results in some challenging scenarios
- <img src="/images/sample_0.png" width="500" />
+ <img src="/images/sample_0.png" width="700" />
  
- <img src="/images/sample_1.png" width="500" /> 
+ <img src="/images/sample_1.png" width="700" /> 
 
 - Lane-keeping test experimental results using AggieAuto AV platform - Lincoln MKZ hybrid:
   - <a target="_blank" href="https://youtu.be/7cWu6n7dfQ8"> 10 mph </a>
