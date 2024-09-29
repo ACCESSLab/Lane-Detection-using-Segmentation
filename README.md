@@ -12,6 +12,9 @@
  <img src="/images/sample_1.png" width="700" /> 
  
 ### Demo Videos
+ > Practical Test using Lincoln-MKZ vehicle for lane following
+  -  On a test track $${\color{green} coming \space soon}$$ 
+  -  On a public road $${\color{green} coming \space soon}$$
  > Videos by our self-driving platform - Lincoln MKZ
   - <a href="https://youtu.be/h-Oo3QAGmfI"> Rural road driving - Brown Summit - NC </a>
   - <a href="https://youtu.be/mtoy8UmIjJo"> Highway driving - I-40 Greensboro - NC </a>
