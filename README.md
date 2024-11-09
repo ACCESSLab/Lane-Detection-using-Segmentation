@@ -13,8 +13,9 @@
  
 ### Demo Videos
  > Practical Test using Lincoln-MKZ vehicle for lane following
-  -  On a test track $${\color{green} coming \space soon}$$ 
-  -  On a public road $${\color{green} coming \space soon}$$
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E3Gwv1mPJ2E/0.jpg)](https://youtu.be/E3Gwv1mPJ2E)
+  
  > Videos by our self-driving platform - Lincoln MKZ
   - <a href="https://youtu.be/h-Oo3QAGmfI"> Rural road driving - Brown Summit - NC </a>
   - <a href="https://youtu.be/mtoy8UmIjJo"> Highway driving - I-40 Greensboro - NC </a>
