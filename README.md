@@ -10,7 +10,8 @@
  <img src="/images/sample_0.png" width="700" />
  <hr>
  <img src="/images/sample_1.png" width="700" /> 
- 
+
+
 ### Demo Videos
  > Practical Test using Lincoln-MKZ vehicle for lane following
 
@@ -25,3 +26,9 @@
    - <a href="https://youtu.be/j5-JM3bYv-8"> Wet Road, urban traffic </a>
    - <a href="https://youtu.be/5uSY_c71Rfc"> Long drive on mostly rural area </a>
 <hr>
+
+### Trained Models
+ > Pre-trained model is available in the 'models/' folder which contains
+  - the pytorch model saved with epochs, state_dictionary, and optimizer state_dict
+  - the serialized and optimized for inference model using toch.jit.script()
+  - the model in onnx format
