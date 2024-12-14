@@ -29,6 +29,6 @@
 
 ### Trained Models
  > Pre-trained model is available in the 'models/' folder which contains
-  - the pytorch model saved with epochs, state_dictionary, and optimizer state_dict
-  - the serialized and optimized for inference model using toch.jit.script()
-  - the model in onnx format
+  - pytorch model saved with epochs, state_dictionary, and optimizer state_dict
+  - serialized and optimized for inference model using toch.jit.script()
+  - model in onnx format
