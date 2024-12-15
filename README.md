@@ -1,4 +1,4 @@
-## Real-time Semantic segmentation-based Lane Detection
+## Realtime Semantic segmentation-based Lane Detection
  ----
 ### Architecture
 
