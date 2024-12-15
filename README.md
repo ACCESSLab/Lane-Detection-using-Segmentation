@@ -17,11 +17,11 @@
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E3Gwv1mPJ2E/0.jpg)](https://youtu.be/E3Gwv1mPJ2E)
   
- > Videos by our self-driving car platform - Lincoln MKZ
+ > Test on videos by our self-driving car platform - Lincoln MKZ
   - <a href="https://youtu.be/h-Oo3QAGmfI"> Rural road driving - Brown Summit - NC </a>
   - <a href="https://youtu.be/mtoy8UmIjJo"> Highway driving - I-40 Greensboro - NC </a>
  
- > On other videos from YouTube - several driving scenarios and challenges
+ > Test on other videos from YouTube - several driving scenarios and challenges
    - <a href="https://youtu.be/HR-Y1Pi0aFM"> Winding Road, strong shadows, and tunnel </a>
    - <a href="https://youtu.be/j5-JM3bYv-8"> Wet Road, urban traffic </a>
    - <a href="https://youtu.be/5uSY_c71Rfc"> Long drive on mostly rural area </a>
