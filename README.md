@@ -27,8 +27,38 @@
    - <a href="https://youtu.be/5uSY_c71Rfc"> Long drive on mostly rural area </a>
 <hr>
 
-### Trained Models
- > Pre-trained model is available in the 'models/' folder which contains
-  - pytorch model saved with epochs, state_dictionary, and optimizer state_dict
-  - serialized and optimized for inference model using toch.jit.script()
-  - model in onnx format
+### Pre-Trained Models
+ > The pre-trained model is available in the ```models/``` folder and includes the following:
+  - A pytorch model saved with epochs, state dictionary, and optimizer state dictionary
+  - A serialized and optimized model for inference using ```toch.jit.script()```
+  - The model in ONNX format
+    
+### Testing the serialized model
+> We tested the serialized model in Ubuntu 22.04 with a conda environment created as follows:
+```Shell
+# Create conda environment:
+conda create -n test_env python==3.10
+
+#Activate the environment
+conda activate test_env
+
+# Install pytorch:
+conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+
+#Install opencv:
+pip install opencv-python
+
+# Clone this repo:
+git clone https://github.com/ACCESSLab/Lane-Detection-using-Segmentation
+cd Lane-Detection-using-Segmentation
+
+# Run the python script:
+python test_model.py
+```
+You can modify the <code> config.py </code> to 
+- change prediction threshold
+- provide test image path/directory
+- provide a path to save the inference results
+- change target device (cuda or cpu)
+
+<hr>
