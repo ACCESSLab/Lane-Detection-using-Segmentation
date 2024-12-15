@@ -42,8 +42,9 @@ conda create -n test_env python==3.10
 #Activate the environment
 conda activate test_env
 
-# Install pytorch:
+# Install pytorch. If gpu is available in your system.
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+# if your system doesn't have gpu, conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 cpuonly -c pytorch
 
 #Install opencv:
 pip install opencv-python
