@@ -17,7 +17,7 @@
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E3Gwv1mPJ2E/0.jpg)](https://youtu.be/E3Gwv1mPJ2E)
   
- > Videos by our self-driving platform - Lincoln MKZ
+ > Videos by our self-driving car platform - Lincoln MKZ
   - <a href="https://youtu.be/h-Oo3QAGmfI"> Rural road driving - Brown Summit - NC </a>
   - <a href="https://youtu.be/mtoy8UmIjJo"> Highway driving - I-40 Greensboro - NC </a>
  
