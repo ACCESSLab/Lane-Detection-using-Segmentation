@@ -25,6 +25,12 @@
    - <a href="https://youtu.be/HR-Y1Pi0aFM"> Winding Road, strong shadows, and tunnel </a>
    - <a href="https://youtu.be/j5-JM3bYv-8"> Wet Road, urban traffic </a>
    - <a href="https://youtu.be/5uSY_c71Rfc"> Long drive on mostly rural area </a>
+
+<hr>
+
+  > :new: Testing TensorRT model on Jetson Orin Nano Super and RTX A4000 GPU
+   - <a href="https://youtu.be/IGqAE2qB1_w"> Testing on Jetson Orin Nano Super </a>
+   - <a href="https://youtu.be/ulYK7N_eK98"> Testing on RTX A4000 GPU </a>
 <hr>
 
 ### Pre-Trained Models
@@ -63,3 +69,4 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
