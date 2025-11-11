@@ -13,7 +13,7 @@
  
  Test on other videos from YouTube - several driving scenarios and challenges
    - <a href=""> Winding Road, strong shadows, and tunnel </a>
-   - <a href=""> Wet Road, urban traffic </a>
+   - <a href="https://drive.google.com/file/d/1OOU7RTUBEW8-I-DKV36T-yIZDx92nvtD/view?usp=sharing"> Wet Road, urban traffic </a>
    - <a href=""> Long drive on mostly rural area </a>
 
 ## Block-diagram
@@ -62,6 +62,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
