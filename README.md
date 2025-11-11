@@ -12,9 +12,9 @@
   - <a href="https://drive.google.com/file/d/1UVaQ9m5bIdyIH1S_aAp4uc74WZMZ6l6x/view?usp=sharing"> Rural road driving - Brown Summit - NC </a>
  
  Test on other videos from YouTube - several driving scenarios and challenges
-   - <a href=""> Winding Road, strong shadows, and tunnel </a>
+   <!--- <a href=""> Winding Road, strong shadows, and tunnel </a>-->
    - <a href="https://drive.google.com/file/d/1OOU7RTUBEW8-I-DKV36T-yIZDx92nvtD/view?usp=sharing"> Wet Road, urban traffic </a>
-   - <a href=""> Long drive on mostly rural area </a>
+   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EcuTbxwpg5RMiSBXOosV-lcBbhxXC3PGjkdYkWWeM2PQFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rBYWTP"> Long drive on mostly rural area </a>
 
 ## Block-diagram
  <img src="/images/block_diagram.png" width="400" />
@@ -62,6 +62,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
