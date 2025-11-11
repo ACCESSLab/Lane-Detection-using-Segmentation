@@ -1,42 +1,39 @@
 ## Realtime Semantic Segmentation-Based Lane Detection
 
 ### Demo Videos
-  > :new: Testing TensorRT model on Jetson Orin Nano Super and RTX A4000 GPU
+  :new: Testing TensorRT model on Jetson Orin Nano Super and RTX A4000 GPU
    - <a href="https://drive.google.com/file/d/1rV1CCNVzmVbafmkCB4vTFUKVRGQUsnAU/view?usp=drive_link"> Testing on Jetson Orin Nano Super </a>
    - <a href="https://drive.google.com/file/d/1P_1gD50oi6cWZgGyRwyPo8gdO-ROA3zO/view?usp=sharing"> Testing on RTX A4000 GPU </a>
 
- > Practical Test using Lincoln-MKZ vehicle for lane following
+  Practical Test using Lincoln-MKZ vehicle for lane following
    - <a href="https://drive.google.com/file/d/17PR47yzuDoqEjB3BVDdnxwGd1Zl-9wun/view?usp=sharing"> 4.5Km test drive </a>
   
- > Test on videos by our self-driving car platform - Lincoln MKZ
+ Test on a video by our self-driving car platform - Lincoln MKZ
   - <a href="https://drive.google.com/file/d/1UVaQ9m5bIdyIH1S_aAp4uc74WZMZ6l6x/view?usp=sharing"> Rural road driving - Brown Summit - NC </a>
-  - <a href="https://youtu.be/mtoy8UmIjJo"> Highway driving - I-40 Greensboro - NC </a>
  
- > Test on other videos from YouTube - several driving scenarios and challenges
-   - <a href="https://youtu.be/HR-Y1Pi0aFM"> Winding Road, strong shadows, and tunnel </a>
-   - <a href="https://youtu.be/j5-JM3bYv-8"> Wet Road, urban traffic </a>
-   - <a href="https://youtu.be/5uSY_c71Rfc"> Long drive on mostly rural area </a>
+ Test on other videos from YouTube - several driving scenarios and challenges
+   - <a href=""> Winding Road, strong shadows, and tunnel </a>
+   - <a href=""> Wet Road, urban traffic </a>
+   - <a href=""> Long drive on mostly rural area </a>
 
-### Architecture
+## Block-diagram
+ <img src="/images/block_diagram.png" width="400" />
 
- > <img src="/images/block_diagram.png" width="400" />
 
-
-### Experimental Results
-> Lane Detection results in some challenging scenarios
+## Experimental Results
+Lane Detection results for some challenging scenarios
  <img src="/images/sample_0.png" width="700" />
- <hr>
- <img src="/images/sample_1.png" width="700" /> 
+ 
+ <!-- <img src="/images/sample_1.png" width="700" /> -->
 
-
-### Pre-Trained Models
- > The pre-trained model is available in the ```models/``` folder and includes the following:
-  - A pytorch model saved with epochs, state dictionary, and optimizer state dictionary
+## Pre-Trained Models
+ The pre-trained model is available in the ```models/``` folder and includes the following:
+  - A PyTorch model saved with epochs, state dictionary, and optimizer state dictionary
   - A serialized and optimized model for inference using ```toch.jit.script()```
   - The model in ONNX format
     
 ### Testing the serialized model
-> We tested the serialized model in Ubuntu 22.04 with a conda environment created as follows:
+We tested the serialized model in Ubuntu 22.04 with a conda environment created as follows:
 ```Shell
 # Create conda environment:
 conda create -n test_env python==3.10
@@ -65,6 +62,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
