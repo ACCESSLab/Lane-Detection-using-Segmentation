@@ -6,7 +6,7 @@
    - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EZZbYlWpZWxLrrvOgNei5NMBebqeyQ4I-U8BkohgicXAtQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8ALG7c"> Testing on RTX A4000 GPU </a>
 
   Practical Test using Lincoln-MKZ vehicle for lane following
-   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/ERGLKlEc3FZElOkbGbgSAwoBE8rOamfPws7On8taXWP3sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=73Pk23"> 4.5Km test drive </a>
+   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/ERGLKlEc3FZElOkbGbgSAwoBE8rOamfPws7On8taXWP3sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=73Pk23"> 4.5 km test drive </a>
   
  Test on a video by our self-driving car platform - Lincoln MKZ
   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EaESHuMcMm1LsHKHCcAGZkgBSxu7w6pSqFN0R2wTofEuYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4HNvzl"> Rural road driving - Brown Summit - NC </a>
@@ -60,6 +60,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
