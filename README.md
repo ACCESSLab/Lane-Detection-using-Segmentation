@@ -13,7 +13,7 @@
  
  Test on other videos from YouTube - several driving scenarios and challenges
    <!--- <a href=""> Winding Road, strong shadows, and tunnel </a>-->
-   - <a href="https://drive.google.com/file/d/1OOU7RTUBEW8-I-DKV36T-yIZDx92nvtD/view?usp=sharing"> Wet Road, urban traffic </a>
+   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/ESieUMnEZ3JPiE0WNe_r_3sBRO0fRnRU9ra0B5R2pMCF6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BmVbFN"> Wet Road, urban traffic </a>
    - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EcuTbxwpg5RMiSBXOosV-lcBbhxXC3PGjkdYkWWeM2PQFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rBYWTP"> Long drive on mostly rural area </a>
 
 ## Block-diagram
@@ -60,6 +60,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
