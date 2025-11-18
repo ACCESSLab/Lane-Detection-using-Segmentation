@@ -23,8 +23,6 @@
 ## Experimental Results
 Lane Detection results for some challenging scenarios
  <img src="/images/sample_0.png" width="700" />
- 
- <!-- <img src="/images/sample_1.png" width="700" /> -->
 
 ## Pre-Trained Models
  The pre-trained model is available in the ```models/``` folder and includes the following:
@@ -52,7 +50,7 @@ pip install opencv-python
 git clone https://github.com/ACCESSLab/Lane-Detection-using-Segmentation
 cd Lane-Detection-using-Segmentation
 
-# Run the python script:
+# Run the Python script:
 python test_model.py
 ```
 You can modify the <code> config.py </code> to 
@@ -62,6 +60,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
