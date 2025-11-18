@@ -14,7 +14,7 @@
  Test on other videos from YouTube - several driving scenarios and challenges
    <!--- <a href=""> Winding Road, strong shadows, and tunnel </a>-->
    - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/ESieUMnEZ3JPiE0WNe_r_3sBRO0fRnRU9ra0B5R2pMCF6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BmVbFN"> Wet Road, urban traffic </a>
-   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EcuTbxwpg5RMiSBXOosV-lcBbhxXC3PGjkdYkWWeM2PQFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rBYWTP"> Long drive on mostly rural area </a>
+   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/Ee_C7oiurUNElzJCx3S1rmABFsDH8BBIMUAJ-h451UioYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7L4shv"> Long drive on mostly rural area </a>
 
 ## Block-diagram
  <img src="/images/block_diagram.png" width="400" />
@@ -60,6 +60,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
