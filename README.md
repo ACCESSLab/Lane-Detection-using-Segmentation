@@ -19,7 +19,6 @@
 ## Block-diagram
  <img src="/images/block_diagram.png" width="400" />
 
-
 ## Experimental Results
 Lane Detection results for some challenging scenarios
  <img src="/images/sample_0.png" width="700" />
@@ -52,6 +51,10 @@ cd Lane-Detection-using-Segmentation
 
 # Run the Python script:
 python test_model.py
+
+# Test on Jetson Orin Nano Super if available.
+python jetson_test.py
+
 ```
 You can modify the <code> config.py </code> to 
 - change prediction threshold
@@ -60,6 +63,7 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
 
 
 
