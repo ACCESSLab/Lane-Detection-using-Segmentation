@@ -74,7 +74,7 @@ You can modify the <code> config.py </code> to
   volume    = {},
   number    = {},
   pages     = {1-11},
-  doi       = {10.1109/TIV.2026.3737152}
+  doi       = {10.1109/TIV.2026.3737152},
   url       = {[https://ieee.org](https://ieeexplore.ieee.org/document/11711274)}
 }
 ```
