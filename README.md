@@ -1,15 +1,15 @@
 ## Realtime Semantic Segmentation-Based Lane Detection
-
+> Full paper available on  <a href="https://ieeexplore.ieee.org/document/11711274">IEEE Xplore</a>
 ### Demo Videos
   :new: Testing TensorRT model on Jetson Orin Nano Super and RTX A4000 GPU
    - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EUKvM8wB2qhMiThRu1SZiaABa-REYMeviw1XAnWUbKjelw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IJktTU"> Testing on Jetson Orin Nano Super </a>
    - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EZZbYlWpZWxLrrvOgNei5NMBebqeyQ4I-U8BkohgicXAtQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8ALG7c"> Testing on RTX A4000 GPU </a>
 
   Practical Test using Lincoln-MKZ vehicle for lane following
-   - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/ERGLKlEc3FZElOkbGbgSAwoBE8rOamfPws7On8taXWP3sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=73Pk23"> 4.5 km test drive </a>
+   - <a href="https://youtu.be/4uAIHSv2nFw?si=DpbNWx7U-t39IYB9"> 4.5 km test drive </a>
   
  Test on a video by our self-driving car platform - Lincoln MKZ
-  - <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EaESHuMcMm1LsHKHCcAGZkgBSxu7w6pSqFN0R2wTofEuYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4HNvzl"> Rural road driving - Brown Summit - NC </a>
+  - <a href="https://youtu.be/i6n5FwmtrMs?si=4Fd8-LgZfSEATNZp"> Rural road driving - Brown Summit - NC </a>
  
  Test on other videos from YouTube - several driving scenarios and challenges
    <!--- <a href=""> Winding Road, strong shadows, and tunnel </a>-->
@@ -63,6 +63,21 @@ You can modify the <code> config.py </code> to
 - change target device (cuda or cpu)
 
 <hr>
+
+# Citation
+```bibtex
+@article{11711274,
+  author    = {Getahun, Tesfamichael and Karimoddini, Ali},
+  journal   = {IEEE Transactions on Intelligent Vehicles},
+  title     = {Real-time Semantic Segmentation-based Lane Detection for Automated Driving},
+  year      = {2026},
+  volume    = {},
+  number    = {},
+  pages     = {1-11},
+  doi       = {10.1109/TIV.2026.3737152}
+  url       = {[https://ieee.org](https://ieeexplore.ieee.org/document/11711274)}
+}
+```
 
 
 
