@@ -6,18 +6,15 @@ Recent lane detection methods based on deep learning outperform conventional ima
 
   Practical Test using Lincoln-MKZ vehicle for lane following
    - <a href="https://youtu.be/4uAIHSv2nFw?si=DpbNWx7U-t39IYB9"> 4.5 km test drive </a>
-
-[![Watch the video](https://youtube.com)](https://youtu.be/4uAIHSv2nFw)
-
-<p align="center">
   <a href="https://youtu.be/4uAIHSv2nFw">
-    <img src="https://youtube.com" alt="Realtime semantic segmentation-based lane detection" width="70%">
+    <img src="images/screen_thumbn.png" alt="A video demo for 4.5km test drive" width="600">
   </a>
-</p>
 
-
- Test on a video by our self-driving car platform - Lincoln MKZ
-  - <a href="https://youtu.be/i6n5FwmtrMs?si=4Fd8-LgZfSEATNZp"> Rural road driving - Brown Summit - NC </a>
+  <hr>
+  
+  Test on a video by our self-driving car platform - Lincoln MKZ
+  
+   - <a href="https://youtu.be/i6n5FwmtrMs?si=4Fd8-LgZfSEATNZp"> Rural road driving - Brown Summit - NC </a>
 
 
 ## Block-diagram
