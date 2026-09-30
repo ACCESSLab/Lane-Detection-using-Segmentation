@@ -26,7 +26,7 @@ Lane Detection results for some challenging scenarios
 
 ## Pre-Trained Models
  The pre-trained model is available in the ```models/``` folder and includes the following:
-  - A PyTorch model saved with epochs, state dictionary, and optimizer state dictionary
+  - A PyTorch model saved with state dictionary and optimizer state dictionary
   - A serialized and optimized model for inference using ```toch.jit.script()```
   - The model in ONNX format
     
@@ -39,7 +39,7 @@ conda create -n test_env python==3.10
 #Activate the environment
 conda activate test_env
 
-# Install pytorch. If gpu is available in your system.
+# Install Pytorch. If a GPU is available in your system.
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 # if your system doesn't have gpu, conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 cpuonly -c pytorch
 
@@ -79,14 +79,6 @@ You can modify the <code> config.py </code> to
   url       = {[https://ieee.org](https://ieeexplore.ieee.org/document/11711274)}
 }
 ```
-
-
-
-
-
-
-
-
 
 
 
