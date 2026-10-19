@@ -20,7 +20,6 @@ if __name__=='__main__':
 
     ######## test video #########  
     # video_dir = param['test_video_dir']
-    # video_path = os.path.join(video_dir,'utah_vid.mp4') 
     video_path = 'test_videos/udacity_video.mp4'
 
     camera = jetson.utils.videoSource(video_path)
@@ -33,7 +32,7 @@ if __name__=='__main__':
         if test_img is None:
             break
        
-        t0 = time.time() # start timer for total latency measurement
+        t0 = time.time() # start timer for rough total latency measurement
         
         ##(1) Preprocessing
         tst_prep = time.time()
